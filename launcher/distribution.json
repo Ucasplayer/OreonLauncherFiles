@@ -5,7 +5,7 @@
                     "smallImageText":  "Oreon",
                     "smallImageKey":  "oreon"
                 },
-    "rss":  "",
+    "rss":  "https://nitter.net/jogarOreon/rss",
     "servers":  [
                     {
                         "id":  "Oreon-1.21.5-Fabric",
