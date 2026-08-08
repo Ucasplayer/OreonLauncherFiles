@@ -23,11 +23,11 @@
     "servers":  [
                     {
                         "id":  "Oreon-1.21.5-Fabric",
-                        "name":  "Oreon Roleplay RPG Medieval",
-                        "description":  "Servidor Oreon de Minecraft Roleplay RPG medieval.",
+                        "name":  "Xenthor SMP",
+                        "description":  "Servidor Xenthor de Minecraft Roleplay",
                         "icon":  "http://151.242.227.173/launcher/server-icon.png",
                         "version":  "1.0.0",
-                        "address":  "151.242.227.173",
+                        "address":  "hypixel.net",
                         "minecraftVersion":  "1.21.5",
                         "javaOptions":  {
                                             "supported":  "\u003e=21",
